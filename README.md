@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mardjab
 - 👀 I’m interested in Data Analytics
-- 🌱 Currently learning Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on projects related to Big Data in the healthcare industry
+- 🌱 Currently studying Deep Learning
 - 📫 You can reach me at mardja.bueno@gmail.com
 
 <!---
