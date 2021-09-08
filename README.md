@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mardjab
-- 👀 I’m interested in Data Analytics
-- 🌱 Currently studying Deep Learning
+- 🧠 I’m a Neuroscientist turned Data Scientist
+- 📍 Currently based in Montreal, Canada
 - 📫 You can reach me at mardja.bueno@gmail.com
 
 <!---
