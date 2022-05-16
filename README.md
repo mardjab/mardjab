@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mardjab
 - 🧠 I’m a Neuroscientist turned Data Scientist
-- 📍 Currently based in Montreal, Canada
+- 📍 Currently based in Toronto, Canada
 - 📫 You can reach me at mardja.bueno@gmail.com
 
 <!---
