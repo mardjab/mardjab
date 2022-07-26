@@ -21,13 +21,12 @@
 
 
 ## About Me :
-  
-- 👂 my name is Mardja
-- 👩 my pronouns are she/her
-- 🧠 I’m a Neuroscientist turned Data Scientist
-- 💻 building a full-stack machine learning web application that detects and classifies human pulmonary diseases
-- 🌱 and exploring technical content writing
-- ⚡ fun fact: currently my favourite show is For All Mankind on Apple TV+ 
+
+- 👩  my pronouns are she/her
+- 🧠  I’m a Neuroscientist turned Data Scientist
+- 💻  building a full-stack machine learning web application that detects and classifies human pulmonary diseases
+- 🌱  and exploring technical content writing
+- ⚡  fun fact: currently my favourite show is For All Mankind on Apple TV+ 
 
 ## Languages and Tools :
 
