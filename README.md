@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @mardjab
+# Hello there, I’m Mardja 👋 
+
 - 🧠 I’m a Neuroscientist turned Data Scientist
 - 📍 Based in Toronto, Canada
-- 📫 You can reach me at mardja.bueno@gmail.com
+- 📫 I'm always happy to help, you can reach me at mardja.bueno@gmail.com
 
-<!---
-mardjab/mardjab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## GitHub stats
+
+![Mardja's GitHub stats](https://github-readme-stats.vercel.app/api?username=mardjab&show_icons=true&theme=tokyonight)
