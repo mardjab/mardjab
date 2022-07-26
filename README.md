@@ -21,7 +21,8 @@
 
 ## About me :
 
-- 👩  my pronouns are she/her
+- 👩  my name is Mardja ("Mar-dee-ah")
+- :star2: my pronouns are she/her
 - 🧠  I’m a Neuroscientist turned Data Scientist
 - 💻  building a full-stack machine learning web application that detects and classifies human pulmonary diseases
 - 🌱  and exploring technical content writing
