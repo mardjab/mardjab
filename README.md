@@ -10,9 +10,6 @@
   <a href="https://public.tableau.com/app/profile/mardja.bueno">
     <img src="https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/GMail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
-  </a>
 </div>
 
 <h1 align="center">
@@ -20,17 +17,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
-</div>
 
-
-
-### :woman_technologist: About Me :
+## :woman_technologist: About Me :
 
 - 🧠 I’m a Neuroscientist turned Data Scientist
-- 📍 Based in Toronto, Canada
-- 📫 I'm always happy to help, you can reach me at mardja.bueno@gmail.com
+- 💻 Currently building a full-stack machine learning web application that detects and classifies human pulmonary diseases
+- 🌱 Exploring technical content writing
+- 📫 You can reach me at mardja.bueno@gmail.com
 
 ## GitHub stats
 
