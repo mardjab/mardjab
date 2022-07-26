@@ -18,14 +18,14 @@
 </h1>
 
 
-## :woman_technologist: About Me :
+## About Me :
 
 - 🧠 I’m a Neuroscientist turned Data Scientist
 - 💻 Currently building a full-stack machine learning web application that detects and classifies human pulmonary diseases
 - 🌱 Exploring technical content writing
 - 📫 You can reach me at mardja.bueno@gmail.com
 
-## :hammer_and_wrench: Languages and Tools :
+## Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -33,6 +33,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
 
 </div>
+
 
 ## GitHub stats
 
