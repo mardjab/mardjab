@@ -15,12 +15,11 @@
 </div>
 
 <h1 align="center">
-  hello there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  hello there!
 </h1>
 
 
-## About Me :
+## About me :
 
 - 👩  my pronouns are she/her
 - 🧠  I’m a Neuroscientist turned Data Scientist
@@ -28,7 +27,7 @@
 - 🌱  and exploring technical content writing
 - ⚡  fun fact: currently my favourite show is For All Mankind on Apple TV+ 
 
-## Languages and Tools :
+## My languages and tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
