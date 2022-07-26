@@ -25,6 +25,15 @@
 - 🌱 Exploring technical content writing
 - 📫 You can reach me at mardja.bueno@gmail.com
 
+## :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
+
+</div>
+
 ## GitHub stats
 
 ![Mardja's GitHub stats](https://github-readme-stats.vercel.app/api?username=mardjab&show_icons=true&theme=tokyonight)
