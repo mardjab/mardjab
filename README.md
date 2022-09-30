@@ -23,10 +23,8 @@
 
 - 👩  my name is Mardja ("Mar-dee-ah")
 - :star2: my pronouns are she/her
-- 🧠  I’m a Neuroscientist turned Data Scientist
-- 💻  building a full-stack machine learning web application that detects and classifies human pulmonary diseases
-- 🌱  and exploring technical content writing
-- ⚡  fun fact: currently my favourite show is For All Mankind on Apple TV+ 
+- 💻  I’m a Scientific Analyst working on quality assurance of a biomedical artificial intelligence platform
+- 🌱  and I talk about my transition from academia to tech on Instagram @scientistintech
 
 ## My languages and tools :
 
