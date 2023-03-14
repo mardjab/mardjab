@@ -24,7 +24,6 @@
 - 👩  my name is Mardja ("Mar-dee-ah")
 - :star2: my pronouns are she/her
 - 💻  I’m a Scientific Analyst working on quality assurance of a biomedical artificial intelligence platform
-- 🌱  and I talk about my transition from academia to tech on Instagram @scientistintech
 
 ## My languages and tools :
 
