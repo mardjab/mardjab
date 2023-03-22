@@ -21,7 +21,7 @@
 
 ## About me :
 
-- 👩  my name is Mardja ("Mar-dee-ah")
+- 👩  my name is Mardja
 - :star2: my pronouns are she/her
 - 💻  I’m a Scientific Analyst working on quality assurance of a biomedical artificial intelligence platform
 
