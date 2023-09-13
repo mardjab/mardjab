@@ -38,12 +38,3 @@
 <img src="https://camo.githubusercontent.com/96796a43b2c70f9c57f3ad251efd2073b828ab3037e4af502c7c409f9564d2b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b657261732d2532334430303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4b65726173266c6f676f436f6c6f723d7768697465" title="Keras" alt="Keras" width="100" height="30"/>&nbsp;
 <img src="https://camo.githubusercontent.com/5e8b6493343a841ed161f1862e7de688f67ba8809ad0a76a8f04af618ab2c3bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69742d2d6c6561726e2d2532334637393331452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7363696b69742d6c6561726e266c6f676f436f6c6f723d7768697465" title="Sckit-learn" alt="Scikit-learn" width="100" height="30"/>&nbsp;
 </div>
-
-
-## My stats :
-  
-  ![Mardja's GitHub stats](https://github-readme-stats.vercel.app/api?username=mardjab&show_icons=true&theme=tokyonight)
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mardjab&theme=tokyonight)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mardjab&layout=compact&theme=tokyonight)](https://github.com/mardjab/github-readme-stats)
-
-
