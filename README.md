@@ -23,7 +23,7 @@
 
 - 👩  my name is Mardja
 - :star2: my pronouns are she/her
-- 💻  I’m a Scientific Analyst working on quality assurance of a biomedical artificial intelligence platform
+- 💻  I’m a Scientist working on a preclinical R&D platform that extracts experiment evidence from internal and external data sources using machine learning models
 
 ## My languages and tools :
 
